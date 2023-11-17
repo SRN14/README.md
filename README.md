@@ -8,20 +8,13 @@
 - 💻 Mi experiencia se centra en [menciona tus tecnologías o lenguajes de programación favoritos].
 - 📚 Estoy constantemente aprendiendo y explorando nuevas tecnologías.
 
-## Proyectos Destacados
-
-- 🌐 [Nombre del Proyecto]: Breve descripción.
-- 📱 [Nombre del Proyecto]: Breve descripción.
-- ⚙️ [Nombre del Proyecto]: Breve descripción.
-
 Explora mi perfil para descubrir más proyectos interesantes.
 
 ## Conéctate conmigo
 
 ¡Hablemos de código, tecnología y más! Puedes encontrarme en:
 
-- 🐦 [Twitter](https://twitter.com/tuusuario)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuperfil)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/sergio-rubio-n%C3%BA%C3%B1ez-a7b341296/))
 - 🌐 [Mi Sitio Web](https://www.tusitio.com)
 
 ¡No dudes en abrir problemas, hacer preguntas o colaborar en mis proyectos! Estoy aquí para aprender y crecer junto con la comunidad.
